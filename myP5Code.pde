@@ -5,7 +5,7 @@ void setup(){
 
   var textX = random(50, 550);
   var textY = random(50, 350);
-  var yourName = "Your Name";
+  var yourName = "Lily";
 
   fill(241,9,55);
   textSize(40);
